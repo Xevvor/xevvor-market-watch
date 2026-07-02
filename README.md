@@ -6,9 +6,9 @@ The project currently supports cryptocurrencies through CoinGecko and stocks, ET
 
 ## Previews
 
-[Nr.1](ss1.png)
+![Nr.1](ss1.png)
 
-[Nr.2](ss2.png)
+![Nr.2](ss2.png)
 
 ## Features
 

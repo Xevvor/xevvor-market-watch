@@ -4,6 +4,12 @@ A simple Python application that monitors cryptocurrencies and other market asse
 
 The project currently supports cryptocurrencies through CoinGecko and stocks, ETFs and other tickers through Yahoo Finance.
 
+## Previews
+
+[Nr.1](Screenshot 2026-07-03 022550.png)
+
+[Nr.2](Screenshot 2026-07-03 022637.png)
+
 ## Features
 
 - Monitor multiple assets at once
